@@ -1,5 +1,3 @@
-import * as basicScroll from "https://cdn.skypack.dev/basicscroll"
-
 :root{
     --darkyellow: rgb(255, 196, 4);
     --opacidad-nav: 0;
