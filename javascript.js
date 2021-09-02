@@ -1,3 +1,5 @@
+import * as basicScroll from 'basicscroll'
+
 var cabecera = basicScroll.create({
     elem: document.querySelector('.cabecera'),
     from: 'top-top',
